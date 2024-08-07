@@ -24,3 +24,14 @@ In the command line above:
 * "--trans_encoder" specifies the type of model used by the cross-domain encoder (choose from "mlp" and "attention").
 * "--cs_setting" refers to whether use infererence variants of $r^x$/$r^y$ for cold-start users.
 
+## Citation
+
+If you found the codes are useful, please cite our paper.
+
+      @article{ning2024information,
+        title={Information Maximization via Variational Autoencoders for Cross-Domain Recommendation},
+        author={Ning, Xuying and Xu, Wujiang and Liu, Xiaolei and Ha, Mingming and Ma, Qiongxu and Li, Youru and Chen, Linxun and Zhang, Yongfeng},
+        journal={arXiv preprint arXiv:2405.20710},
+        year={2024}
+      }
+
