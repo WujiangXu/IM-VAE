@@ -1,6 +1,6 @@
 # **Instruction**
 
-This anonymous code repository is for the paper "Information Maximization Variational Autoencoder for Cross-Domain Sequential Recommendation".
+This code repository is for UAI 2025 paper "Information Maximization Variational Autoencoder for Cross-Domain Sequential Recommendation".
 
 # **Quick Run**
 
